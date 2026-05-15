@@ -38,7 +38,7 @@ table {
 th {
   background-color: #333;
   color: white;
-  padding: 4px;
+  padding: 10px;
   border: 1px solid #999;
   text-align: center;
 }
@@ -59,14 +59,7 @@ td ul li {
   border-bottom: 1px solid #ddd;
 }
 
-tr {
-  height: 1px;
-}
 
 .highlight {
-  background-color: #def7b6;
-}
-
-.highlight2 {
-  background-color: #def7b6;
+  background-color: #5f5f3d81;
 }
